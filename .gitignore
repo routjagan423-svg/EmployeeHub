@@ -1,0 +1,16 @@
+# Java backend
+**/target/
+**/.idea/
+**/*.iml
+
+# React frontend
+**/node_modules/
+**/dist/
+
+# Secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+*.log
